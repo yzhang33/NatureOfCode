@@ -4,7 +4,7 @@ I am interested in how the self avoiding walk works. Just like playing a snake g
 
 I wrote a p5 sketch does this. The start point is the purple one and yellow point is the end point. 
 
-![self avoiding path](./img.png)
+![self avoiding path](./path.png)
 
 ## Random Walk with Self Avoiding Path
 Now the fun part is that the path I made in p5 is trivial even though it statisfys the characteristics of SAP. The algorithm I learned is backbite algorith. This [post](https://datagenetics.com/blog/december22018/index.html) did a good job to describe the backbite algorithm from this [paper](https://arxiv.org/abs/cond-mat/0508094).
