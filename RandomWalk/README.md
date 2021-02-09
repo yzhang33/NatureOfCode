@@ -36,5 +36,3 @@ Here is the link of SAW p5 [sketch](https://editor.p5js.org/yzhang33/sketches/ye
 ![self avoiding path](./path1.png)
 
 ![self avoiding path](./path2.png)
-
-Here is the link of SAW p5 (sketch)[]
