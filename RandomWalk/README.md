@@ -13,7 +13,8 @@ It is obvious to use brute force solution to construct a self-avoiding path. All
 ```
 check current postion form a n/4 * n/4 grid as blocks to check
 find a new grid that current point has not visited
-if grid find visit that grid.
+if grid foundd 
+visit that grid.
 else no grid avaliable
 increse block size and repeat
 ```
@@ -24,3 +25,13 @@ This solution's run time will be super long and most importantly the path will b
 The algorithm I learned is backbite algorithm. This [post](https://datagenetics.com/blog/december22018/index.html) did a good job to describe the backbite algorithm from this [paper](https://arxiv.org/abs/cond-mat/0508094).
 
 I am still developing the backbite algorithm. This will add randomness into my original path but the result is still a self-avoiding path aka the hamiltonian path.
+
+After taking sometime understanding the algorithm and writting code. I had the fully working code to generate random path with self avoiding walk. Here are some paths I generated. This algorithm add randomness to the path I originally genreated. SAW achieved. 
+Here is the link of SAW p5 [sketch]()
+![self avoiding path](./path3.png)
+
+![self avoiding path](./path1.png)
+
+![self avoiding path](./path2.png)
+
+Here is the link of SAW p5 (sketch)[]
