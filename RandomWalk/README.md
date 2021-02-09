@@ -26,7 +26,8 @@ The algorithm I learned is backbite algorithm. This [post](https://datagenetics.
 
 I am still developing the backbite algorithm. This will add randomness into my original path but the result is still a self-avoiding path aka the hamiltonian path.
 
-After taking sometime understanding the algorithm and writting code. I had the fully working code to generate random path with self avoiding walk. Here are some paths I generated. This algorithm add randomness to the path I originally genreated. SAW achieved. 
+After taking sometime understanding the algorithm and writting code. I had the fully working code to generate random path with self avoiding walk. Here are some paths I generated. This algorithm add randomness to the path I originally genreated. SAW achieved.
+
 Here is the link of SAW p5 [sketch](https://editor.p5js.org/yzhang33/sketches/yenNjRKTD)
 
 
