@@ -1,6 +1,6 @@
 # Self Avoiding Walk
 
-I am interested in how the self-avoiding walk works. Just like playing a snake game. From my research, I learned that the hamiltonian path(a path that travels all grids and never from a cycle) is self-avoiding and it also traverses all grids. For example, a 4x4 grid hamiltonian path starts at (0,0) and ends at (4,4). There are 52 ways to make a hamiltonian path on a 4x4 grid. It is easy to make a self-avoiding path in this situation. 
+I am interested in how the self-avoiding walk works. Just like playing a snake game. From my research, I learned that the hamiltonian path(a path that travels all grids and never forms a cycle) is self-avoiding and it also traverses all grids. For example, a 4x4 grid hamiltonian path starts at (0,0) and ends at (4,4). There are 52 ways to make a hamiltonian path on a 4x4 grid. It is easy to make a self-avoiding path in this situation. Just travel from top to bottom or bottom to top on each column will do the work.  
 
 I wrote a p5 sketch that does this. The start point is the purple one and the yellow point is the endpoint. 
 
@@ -36,5 +36,3 @@ Here is the link of SAW p5 [sketch](https://editor.p5js.org/yzhang33/sketches/ye
 ![self avoiding path](./path1.png)
 
 ![self avoiding path](./path2.png)
-
-Here is the link of SAW p5 (sketch)[]
